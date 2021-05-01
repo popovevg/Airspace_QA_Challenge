@@ -1,0 +1,22 @@
+{
+  "name": "airspace_qa_challenge",
+  "version": "1.0.0",
+  "description": "automated regression suite for the login component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popovevg/Airspace_QA_Challenge.git"
+  },
+  "author": "Evgeny Popov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/popovevg/Airspace_QA_Challenge/issues"
+  },
+  "homepage": "https://github.com/popovevg/Airspace_QA_Challenge#readme",
+  "devDependencies": {
+    "cypress": "^7.2.0"
+  }
+}
